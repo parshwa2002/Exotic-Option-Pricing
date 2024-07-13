@@ -1,0 +1,13 @@
+Requirements
+
+To run this project, you need the following libraries installed:
+
+	•	yfinance: For downloading financial data.
+	•	pandas: For data manipulation and analysis.
+	•	numpy: For numerical computations.
+	•	scipy: For optimization functions.
+	•	matplotlib: For plotting graphs.
+
+You can install these libraries using pip:
+
+pip install yfinance pandas numpy scipy matplotlib
